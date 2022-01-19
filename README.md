@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PZYCO20
+- 👋 Hi, I’m jerome
 - 👀 I’m interested in blockChain tech
 - 🌱 I’m currently learning javaScript
 - 📫 How to reach me: DM me on instagram @jeerommm
